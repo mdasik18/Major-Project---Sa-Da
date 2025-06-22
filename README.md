@@ -23,7 +23,7 @@ Connect with friends, share messages and images, and enjoy a beautiful, chat exp
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/rijughosh01/chat-app.git
+git clone https://github.com/mdasik18/Major-Project---Sa-Da.git
 cd chat-app
 ```
 
